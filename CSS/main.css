@@ -1,0 +1,35 @@
+.background {
+    background: url(https://www.amf-designs.com/wp-content/uploads/s/s-new-wood-dining-table-glass-top-wood-table-tops-houston-wood-table-tops-home-depot-wood-table-top-heat-damage-wooden-table-top-hockey-game-round-wood-table-tops-home-depot-solid-wood-table-to.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+#front-cover {
+    background-color: #78C2C3;
+}
+
+.cover {
+    background-color: #856404;
+}
+
+#title-text {
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 2em;
+    position: absolute;
+    bottom: 5%;
+    left: 25%;
+}
+
+.book-page {
+    background-color: white;
+}
+
+#book-container {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+}
