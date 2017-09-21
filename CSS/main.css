@@ -1,5 +1,5 @@
 .background {
-    background: url(https://www.amf-designs.com/wp-content/uploads/s/s-new-wood-dining-table-glass-top-wood-table-tops-houston-wood-table-tops-home-depot-wood-table-top-heat-damage-wooden-table-top-hockey-game-round-wood-table-tops-home-depot-solid-wood-table-to.jpg) no-repeat center center fixed;
+    background: url(../assets/surface1.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -9,7 +9,7 @@
 }
 
 .background-alternate {
-    background: url(http://cdn.wallpapersafari.com/78/39/bjCe4s.jpg) no-repeat center center fixed;
+    background: url(../assets/surface2.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -28,7 +28,6 @@
 .book-text {
     position: absolute;
     bottom: 5%;
-
 }
 
 .last {
