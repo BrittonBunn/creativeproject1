@@ -4,7 +4,17 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    position: relative;
 
+}
+
+.background-alternate {
+    background: url(http://cdn.wallpapersafari.com/78/39/bjCe4s.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
 }
 
 #front-cover {
@@ -13,6 +23,12 @@
 
 .cover {
     background-color: #856404;
+}
+
+.book-text {
+    position: absolute;
+    bottom: 5%;
+
 }
 
 .last {
@@ -30,10 +46,15 @@
 
 .book-page {
     background-color: white;
+    padding: 5px;
 }
 
 #book-container {
-    position: absolute;
-    top: 10%;
-    left: 15%;
+    position: relative;
+    transform: translateY(15%);
+}
+
+#toggle-button {
+    position: relative;
+    left: 2%;
 }
