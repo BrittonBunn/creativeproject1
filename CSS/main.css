@@ -28,24 +28,30 @@
 .book-text {
     position: absolute;
     bottom: 5%;
+    padding-right: 1%;
+    padding-left: 1%;
 }
 
 .last {
     background-color: #54B0A5
 }
 
+.book-image {
+    position: absolute;
+    transform: translateY(25%);
+}
+
 #title-text {
     font-family: "Courier New";
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.5em;
     position: absolute;
     bottom: 5%;
-    left: 25%;
+    left: 20%;
 }
 
 .book-page {
     background-color: white;
-    padding: 5px;
 }
 
 #book-container {
